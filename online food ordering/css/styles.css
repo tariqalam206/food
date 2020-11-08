@@ -1,0 +1,130 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+}
+
+h1{
+font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 100px;
+}
+h3{
+  font-family: "Montserrat"
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+p{
+  color: grey;
+  text-decoration: none;
+}
+.container-fluid{
+  padding: 2% 10%;
+}
+/* navbar style  */
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand
+{
+  font-family: 'Great Vibes';
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0,18px;
+}
+
+/* button dwnload */
+.button-download{
+  margin: 5% 3% 5% 0%;
+}
+/* image-title */
+
+.image-title{
+  width: 400px;
+  height: 500px;
+  border-radius: 15px;
+  border: 3px solid pink;
+}
+.slider1{
+  margin-left: 0px;
+    left: 80px;
+    right: auto;
+}
+.slider2{
+  left: 420px;
+}
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+
+}
+
+/* order-slides */
+.image-oreder{
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  border: 3px solid pink;
+
+
+}
+
+.container-fluid1
+{
+  padding: 3% 15%;
+}
+.or{
+  text-align: center;
+  font-family: "Montserrat";
+  /* font-weight: bold; */
+ padding: 3%;
+ font-size: 1.25rem;
+ color: black;
+
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 3% 15%;
+  color: #fff;
+  text-align: center;
+}
+
+/* footer section */
+#footer{
+  padding: 3% 15%;
+  text-align: center;
+}
+.footer-s{
+  margin: 20px 10px;
+}
+.f-icon{
+  margin-right: 5px;
+}
+
+.login{
+  text-decoration: underline;
+}
+.login:hover{
+  color:green;
+}
